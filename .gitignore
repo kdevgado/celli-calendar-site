@@ -1,0 +1,11 @@
+# Local development
+.DS_Store
+Thumbs.db
+*.log
+
+# Editor settings
+.vscode/
+.idea/
+
+# Local Python cache
+__pycache__/
